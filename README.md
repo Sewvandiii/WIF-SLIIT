@@ -1,4 +1,4 @@
-
+![logo](./WIF SLIIT logo/Resources/wif-banner.png)
 
 # SLIIT - Sri Lanka Institute of Information Technology
 
