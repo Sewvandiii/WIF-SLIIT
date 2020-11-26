@@ -1,4 +1,5 @@
 
+
 # SLIIT - Sri Lanka Institute of Information Technology
 
 As women, the goal of the starting Open Source Community at Sri Lanka Institute of Information Technology is to improve student skills, contribute to society with inventions and new ideas, and make students part of the largest community in the world.
@@ -10,7 +11,7 @@ As women, the goal of the starting Open Source Community at Sri Lanka Institute 
   - Renu Harshatha
   - Nishiki Yapa
   - Hansi Pabasara
-  - Dilini Oshadi
+  - Dilini Oshadie
   - Shanu Chandrasekara
   - Chamodi Thennakoon
   - Isuri Arachchige
@@ -21,7 +22,7 @@ As women, the goal of the starting Open Source Community at Sri Lanka Institute 
   - Samanthi De Silva
   - Kithmini Indimagedara
   - Kethmi Hasara
-  - Shadhini 
+  - Shadini Kalansooriya 
 
 ## How to join?
 
