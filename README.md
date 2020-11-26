@@ -1,8 +1,6 @@
 
 # SLIIT - Sri Lanka Institute of Information Technology
 
-<img height="150px"  width="150px"  src="https://ibb.co/Scv9DKh">
-
 As women, the goal of the starting Open Source Community at Sri Lanka Institute of Information Technology is to improve student skills, contribute to society with inventions and new ideas, and make students part of the largest community in the world.
 
 
@@ -38,8 +36,8 @@ As women, the goal of the starting Open Source Community at Sri Lanka Institute 
 
 Keep yourself connected through our social media platforms to never miss out on latest updates.
 
-Instagram: https://instagram.com/sliitfoss?igshid=iub05g1r064v
-Facebook: https://www.facebook.com/sliitfoss/
-Medium: https://medium.com/sliit-foss
-GitHub: https://github.com/sliit-foss
-YouTube: https://www.youtube.com/channel/UCPPO-QR0Dv13ewjhPsc_I3w
+- Instagram: https://instagram.com/sliitfoss?igshid=iub05g1r064v
+- Facebook: https://www.facebook.com/sliitfoss/
+- Medium: https://medium.com/sliit-foss
+- GitHub: https://github.com/sliit-foss
+- YouTube: https://www.youtube.com/channel/UCPPO-QR0Dv13ewjhPsc_I3w
